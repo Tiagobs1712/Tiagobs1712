@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estou desempregado e dedicando meu tempo ao aprendizado na área programação.
+Atualmente estou desempregado e dedicando meu tempo ao aprendizado na área de programação.
 
 
 # 💻 Tech Stack:
